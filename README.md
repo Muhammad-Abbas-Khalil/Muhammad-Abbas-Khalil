@@ -48,6 +48,12 @@ Full-stack fitness web app with an AI Coach chatbot (Hugging Face API), personal
 
 ---
 
+### 🍽️ [Dastarkhwan — Food Donation Platform](https://github.com/Muhammad-Abbas-Khalil/Dastarkhwan)
+A full-stack food donation platform connecting donors with receivers. Features separate donor/receiver dashboards, admin panel, authentication, and database management.  
+`PHP` `MySQL` `CSS` `JavaScript`
+
+---
+
 ### 🌙 [Midnight Club — Anonymous Midnight Chat App](https://github.com/Muhammad-Abbas-Khalil/midnight-club)
 Time-locked anonymous chat app that only unlocks at 23:00 with a live countdown timer. Military terminal UI with Firebase real-time messaging.  
 `HTML` `Tailwind CSS` `JavaScript` `Firebase` · **[Live Demo](https://themidnightclub.netlify.app)**
@@ -57,12 +63,6 @@ Time-locked anonymous chat app that only unlocks at 23:00 with a live countdown 
 ### 🌍 [World Bridge Consultancy — Study Abroad Website](https://github.com/Muhammad-Abbas-Khalil/world-bridge-consultancy)
 Multi-page consultancy website built from scratch with destinations, a 4-step process section, testimonials, and a contact form.  
 `HTML` `CSS` `JavaScript` · **[Live Demo](https://worldbridgeconsultancy.netlify.app)**
-
----
-
-### 🍽️ [Dastarkhwan — Food Donation Platform](https://github.com/Muhammad-Abbas-Khalil/Dastarkhwan)
-A full-stack food donation platform connecting donors with receivers. Features separate donor/receiver dashboards, admin panel, authentication, and database management.  
-`PHP` `MySQL` `CSS` `JavaScript`
 
 ---
 
