@@ -60,6 +60,12 @@ Multi-page consultancy website built from scratch with destinations, a 4-step pr
 
 ---
 
+### 🍽️ [Dastarkhwan — Food Donation Platform](https://github.com/Muhammad-Abbas-Khalil/Dastarkhwan)
+A full-stack food donation platform connecting donors with receivers. Features separate donor/receiver dashboards, admin panel, authentication, and database management.  
+`PHP` `MySQL` `CSS` `JavaScript`
+
+---
+
 ## 🎓 Education
 
 **BS Computer Science** — IMSciences, Peshawar  
